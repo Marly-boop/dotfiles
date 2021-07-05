@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = teixeiramg.marly@gmail.com
+	name = Marly Teixeira
